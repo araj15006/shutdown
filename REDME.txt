@@ -1,0 +1,35 @@
+# Shutdown/Restart GUI
+
+This simple GUI application allows users to easily perform shutdown, restart, and sleep actions on their computer. It is built using Tkinter in Python.
+
+## Features
+
+- **Shutdown:** Click the "Shutdown" button to initiate a system shutdown.
+- **Restart:** Click the "Restart" button to restart the computer.
+- **Sleep:** Click the "Sleep" button to put the computer to sleep.
+
+## How to Use
+
+1. Ensure you have Python installed on your system.
+2. Clone this repository to your local machine.
+3. Run the script using `python shutdown_restart_gui.py`.
+4. Use the corresponding buttons to perform the desired action.
+
+## Screenshots
+
+Include screenshots or GIFs of your application in action.
+
+## Dependencies
+
+- Python 3
+- Tkinter (usually included with Python)
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Acknowledgments
+
+- Icons used for buttons: shutdown.png, restart.png, sleep.png
+
+Feel free to customize and expand upon this template to provide more detailed information about your project. This README serves as a quick guide for users who visit your GitHub repository.
